@@ -1,0 +1,15 @@
+C:\Users\sim8hu\Desktop\Code\Ovelse\LektieCafe_BirthYear\CPR\bin\Debug\net6.0\CPR.exe
+C:\Users\sim8hu\Desktop\Code\Ovelse\LektieCafe_BirthYear\CPR\bin\Debug\net6.0\CPR.deps.json
+C:\Users\sim8hu\Desktop\Code\Ovelse\LektieCafe_BirthYear\CPR\bin\Debug\net6.0\CPR.runtimeconfig.json
+C:\Users\sim8hu\Desktop\Code\Ovelse\LektieCafe_BirthYear\CPR\bin\Debug\net6.0\CPR.dll
+C:\Users\sim8hu\Desktop\Code\Ovelse\LektieCafe_BirthYear\CPR\bin\Debug\net6.0\CPR.pdb
+C:\Users\sim8hu\Desktop\Code\Ovelse\LektieCafe_BirthYear\CPR\obj\Debug\net6.0\CPR.csproj.AssemblyReference.cache
+C:\Users\sim8hu\Desktop\Code\Ovelse\LektieCafe_BirthYear\CPR\obj\Debug\net6.0\CPR.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sim8hu\Desktop\Code\Ovelse\LektieCafe_BirthYear\CPR\obj\Debug\net6.0\CPR.AssemblyInfoInputs.cache
+C:\Users\sim8hu\Desktop\Code\Ovelse\LektieCafe_BirthYear\CPR\obj\Debug\net6.0\CPR.AssemblyInfo.cs
+C:\Users\sim8hu\Desktop\Code\Ovelse\LektieCafe_BirthYear\CPR\obj\Debug\net6.0\CPR.csproj.CoreCompileInputs.cache
+C:\Users\sim8hu\Desktop\Code\Ovelse\LektieCafe_BirthYear\CPR\obj\Debug\net6.0\CPR.dll
+C:\Users\sim8hu\Desktop\Code\Ovelse\LektieCafe_BirthYear\CPR\obj\Debug\net6.0\refint\CPR.dll
+C:\Users\sim8hu\Desktop\Code\Ovelse\LektieCafe_BirthYear\CPR\obj\Debug\net6.0\CPR.pdb
+C:\Users\sim8hu\Desktop\Code\Ovelse\LektieCafe_BirthYear\CPR\obj\Debug\net6.0\CPR.genruntimeconfig.cache
+C:\Users\sim8hu\Desktop\Code\Ovelse\LektieCafe_BirthYear\CPR\obj\Debug\net6.0\ref\CPR.dll

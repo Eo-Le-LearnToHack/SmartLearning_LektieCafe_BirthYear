@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\sim8hu\\Desktop\\Code\\cSharp\\Console\\Programmering\\CPR\\CPR\\CPR.csproj": {}
+    "C:\\Users\\sim8hu\\Desktop\\Code\\Ovelse\\LektieCafe_BirthYear\\CPR\\CPR.csproj": {}
   },
   "projects": {
-    "C:\\Users\\sim8hu\\Desktop\\Code\\cSharp\\Console\\Programmering\\CPR\\CPR\\CPR.csproj": {
+    "C:\\Users\\sim8hu\\Desktop\\Code\\Ovelse\\LektieCafe_BirthYear\\CPR\\CPR.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\sim8hu\\Desktop\\Code\\cSharp\\Console\\Programmering\\CPR\\CPR\\CPR.csproj",
+        "projectUniqueName": "C:\\Users\\sim8hu\\Desktop\\Code\\Ovelse\\LektieCafe_BirthYear\\CPR\\CPR.csproj",
         "projectName": "CPR",
-        "projectPath": "C:\\Users\\sim8hu\\Desktop\\Code\\cSharp\\Console\\Programmering\\CPR\\CPR\\CPR.csproj",
+        "projectPath": "C:\\Users\\sim8hu\\Desktop\\Code\\Ovelse\\LektieCafe_BirthYear\\CPR\\CPR.csproj",
         "packagesPath": "C:\\Users\\sim8hu\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\sim8hu\\Desktop\\Code\\cSharp\\Console\\Programmering\\CPR\\CPR\\obj\\",
+        "outputPath": "C:\\Users\\sim8hu\\Desktop\\Code\\Ovelse\\LektieCafe_BirthYear\\CPR\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\sim8hu\\AppData\\Roaming\\NuGet\\NuGet.Config",
